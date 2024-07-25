@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h3 align="center">I am currently studying at Diponegoro University</h3>
+<h3 align="center">I am currently studying at Diponegoro University and....</h3>
 
 <h2 align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
